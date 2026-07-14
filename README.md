@@ -1,13 +1,16 @@
-# CS-CGA Reproducibility Package (Staging)
+# CS-CGA
 
-This staging directory collects the files intended for a public CS-CGA
-reproducibility repository. It currently has three primary directories:
+This repository provides the implementation of CS-CGA and the benchmark data
+and result files used in the paper.
 
 | Directory | Contents |
 | --- | --- |
-| `method/` | MATLAB implementation of CS-CGA, HSM scoring code, HSM analysis entry scripts, and Python drivers for additional baselines, table construction, and Wilcoxon tests. |
-| `data_and_results/` | The 24 benchmark datasets, raw paper results, the newly added GTT, BS, IGES, and saiyanH results, and the final HSM cache-size result CSV files. |
-| `plotting/` | Core figure scripts and input data, plus the cache-size heatmap script, its input CSV files, and the six final heatmap PDFs. |
+| `method/` | MATLAB implementation of CS-CGA, including PCR, EEAM, and HSM. |
+| `data_and_results/` | The 24 benchmark datasets and the result files reported in the paper. |
 
-This directory is not ready to publish. See `MISSING_ITEMS.md` before creating a
-public repository.
+The package intentionally excludes implementations of comparison algorithms,
+ablation and supplementary-analysis scripts, and figure-generation scripts.
+
+Before running the code, install the Bayes Net Toolbox (BNT) under
+`third_party/bnt-master` and consult `MISSING_ITEMS.md` for the remaining
+publication checks.

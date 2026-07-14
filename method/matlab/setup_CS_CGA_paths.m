@@ -7,7 +7,6 @@ addpath(fullfile(root_dir, 'CS_CGA'), '-begin');
 addpath(fullfile(root_dir, 'HSM_scoring'), '-begin');
 addpath(fullfile(root_dir, 'Subprogram'), '-begin');
 addpath(genpath(fullfile(root_dir, 'Subprogram', 'Bif2Bnt')));
-addpath(fullfile(root_dir, 'tools', 'HSMAnalysis'));
 if exist(bnt_dir, 'dir')
     addpath(genpath(bnt_dir));
 end

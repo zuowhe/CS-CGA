@@ -1,9 +1,12 @@
 dbstop if error
 setup_CS_CGA_paths;
-Datasets_dir = 'datasets/';
-if ~exist(Datasets_dir,'dir')
-	mkdir(Datasets_dir);
+root_dir = fileparts(mfilename('fullpath'));
+package_root = fileparts(fileparts(root_dir));
+Datasets_dir = fullfile(package_root, 'data_and_results', 'benchmark_data');
+if ~exist(Datasets_dir, 'dir')
+    error('Benchmark datasets are not available at %s.', Datasets_dir);
 end
+addpath(Datasets_dir);
 DsS = cell(0, 0);
 data_size = [500,1000,3000];
 DsS{end+1} = {'Asia', data_size};
