@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.idea/
+*.asv
+*.log
+*.tmp
+*.bak
+*.fig
+method/**/results/
+method/**/cache/

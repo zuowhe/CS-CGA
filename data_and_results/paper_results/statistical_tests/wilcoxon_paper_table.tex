@@ -1,0 +1,25 @@
+﻿\begin{table}[htbp]
+\centering
+\caption{Wilcoxon signed-rank test comparing CS-CGA with the compared methods on F1 score and SHD based on matched dataset-sample settings.}
+\label{tab:wilcoxon_test}
+\begin{tabular}{llrrrrr}
+\toprule
+Compared method & Metric & Pairs & Mean diff. & $p$ & Holm-$p$ & Sig. \\
+\midrule
+PSX & F1 & 24 & 0.1647 & 2.38e-07 & 1.19e-06 & *** \\
+PSX & SHD & 24 & 39.2750 & 2.38e-07 & 1.19e-06 & *** \\
+EKGA-BN & F1 & 24 & 0.1072 & 2.38e-07 & 1.19e-06 & *** \\
+EKGA-BN & SHD & 24 & 32.6354 & 2.38e-07 & 1.19e-06 & *** \\
+AESL-GA & F1 & 24 & 0.1805 & 1.19e-07 & 7.15e-07 & *** \\
+AESL-GA & SHD & 24 & 39.8521 & 1.19e-07 & 7.15e-07 & *** \\
+hybrid-SLA & F1 & 24 & 0.1036 & 2.38e-07 & 1.19e-06 & *** \\
+hybrid-SLA & SHD & 24 & 29.6521 & 2.38e-07 & 1.19e-06 & *** \\
+MIGA & F1 & 24 & 0.0489 & 2.38e-07 & 1.19e-06 & *** \\
+MIGA & SHD & 24 & 11.5979 & 2.38e-07 & 1.19e-06 & *** \\
+MAGABN & F1 & 24 & 0.1976 & 2.38e-07 & 1.19e-06 & *** \\
+MAGABN & SHD & 24 & 40.1917 & 2.38e-07 & 1.19e-06 & *** \\
+\bottomrule
+\end{tabular}
+\\
+\footnotesize{Positive mean differences indicate better CS-CGA performance, i.e., higher F1 score or lower SHD.}
+\end{table}

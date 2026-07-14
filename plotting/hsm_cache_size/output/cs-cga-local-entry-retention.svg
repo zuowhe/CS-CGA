@@ -1,0 +1,340 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1750" height="1200" viewBox="0 0 1750 1200">
+<rect width="100%" height="100%" fill="white"/>
+<style>text { font-family: Arial, Helvetica, sans-serif; } .axis { font-size: 32px; } .network { font-size: 30px; } .label { font-size: 26px; } .value { font-size: 32px; font-weight: 500; } .tick { font-size: 32px; }</style>
+<text x="352.5" y="84" text-anchor="middle" class="network">Asia</text>
+<text x="517.5" y="84" text-anchor="middle" class="network">Insurance</text>
+<text x="682.5" y="84" text-anchor="middle" class="network">Water</text>
+<text x="847.5" y="84" text-anchor="middle" class="network">Alarm</text>
+<text x="1012.5" y="84" text-anchor="middle" class="network">Hailfinder</text>
+<text x="1177.5" y="84" text-anchor="middle" class="network">Hepar II</text>
+<text x="1342.5" y="84" text-anchor="middle" class="network">Win95pts</text>
+<text x="1507.5" y="84" text-anchor="middle" class="network">Andes</text>
+<text x="252" y="149" text-anchor="end" class="label">HSM-10</text>
+<rect x="270" y="105" width="165" height="68" fill="#9fcee6" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="149" text-anchor="middle" class="value" fill="#111111">33.2%</text>
+<rect x="435" y="105" width="165" height="68" fill="#a9bce5" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="149" text-anchor="middle" class="value" fill="#111111">8.8%</text>
+<rect x="600" y="105" width="165" height="68" fill="#a5c3e6" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="149" text-anchor="middle" class="value" fill="#111111">18.4%</text>
+<rect x="765" y="105" width="165" height="68" fill="#a9bbe5" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="149" text-anchor="middle" class="value" fill="#111111">6.7%</text>
+<rect x="930" y="105" width="165" height="68" fill="#a7bee5" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="149" text-anchor="middle" class="value" fill="#111111">11.9%</text>
+<rect x="1095" y="105" width="165" height="68" fill="#a3c7e6" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="149" text-anchor="middle" class="value" fill="#111111">23.7%</text>
+<rect x="1260" y="105" width="165" height="68" fill="#a9bce5" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="149" text-anchor="middle" class="value" fill="#111111">9.1%</text>
+<rect x="1425" y="105" width="165" height="68" fill="#9fcfe6" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="149" text-anchor="middle" class="value" fill="#111111">34.7%</text>
+<text x="252" y="217" text-anchor="end" class="label">HSM-20</text>
+<rect x="270" y="173" width="165" height="68" fill="#95e2e7" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="217" text-anchor="middle" class="value" fill="#111111">61.7%</text>
+<rect x="435" y="173" width="165" height="68" fill="#a5c2e6" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="217" text-anchor="middle" class="value" fill="#111111">17.5%</text>
+<rect x="600" y="173" width="165" height="68" fill="#9fcee6" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="217" text-anchor="middle" class="value" fill="#111111">33.9%</text>
+<rect x="765" y="173" width="165" height="68" fill="#a7c0e5" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="217" text-anchor="middle" class="value" fill="#111111">13.5%</text>
+<rect x="930" y="173" width="165" height="68" fill="#a4c6e6" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="217" text-anchor="middle" class="value" fill="#111111">21.9%</text>
+<rect x="1095" y="173" width="165" height="68" fill="#9dd2e6" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="217" text-anchor="middle" class="value" fill="#111111">40.0%</text>
+<rect x="1260" y="173" width="165" height="68" fill="#a6c1e5" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="217" text-anchor="middle" class="value" fill="#111111">15.5%</text>
+<rect x="1425" y="173" width="165" height="68" fill="#96dfe7" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="217" text-anchor="middle" class="value" fill="#111111">58.0%</text>
+<text x="252" y="285" text-anchor="end" class="label">HSM-50</text>
+<rect x="270" y="241" width="165" height="68" fill="#87fce8" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="285" text-anchor="middle" class="value" fill="#111111">98.0%</text>
+<rect x="435" y="241" width="165" height="68" fill="#9cd4e6" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="285" text-anchor="middle" class="value" fill="#111111">41.8%</text>
+<rect x="600" y="241" width="165" height="68" fill="#93e5e7" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="285" text-anchor="middle" class="value" fill="#111111">66.6%</text>
+<rect x="765" y="241" width="165" height="68" fill="#a1cbe6" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="285" text-anchor="middle" class="value" fill="#111111">29.2%</text>
+<rect x="930" y="241" width="165" height="68" fill="#9bd6e6" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="285" text-anchor="middle" class="value" fill="#111111">45.2%</text>
+<rect x="1095" y="241" width="165" height="68" fill="#9cd4e6" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="285" text-anchor="middle" class="value" fill="#111111">42.8%</text>
+<rect x="1260" y="241" width="165" height="68" fill="#a0cce6" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="285" text-anchor="middle" class="value" fill="#111111">31.6%</text>
+<rect x="1425" y="241" width="165" height="68" fill="#8fede7" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="285" text-anchor="middle" class="value" fill="#111111">76.9%</text>
+<text x="252" y="353" text-anchor="end" class="label">HSM-100</text>
+<rect x="270" y="309" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="353" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="435" y="309" width="165" height="68" fill="#8febe7" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="353" text-anchor="middle" class="value" fill="#111111">75.1%</text>
+<rect x="600" y="309" width="165" height="68" fill="#8fece7" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="353" text-anchor="middle" class="value" fill="#111111">76.7%</text>
+<rect x="765" y="309" width="165" height="68" fill="#99d9e6" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="353" text-anchor="middle" class="value" fill="#111111">49.0%</text>
+<rect x="930" y="309" width="165" height="68" fill="#94e3e7" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="353" text-anchor="middle" class="value" fill="#111111">62.8%</text>
+<rect x="1095" y="309" width="165" height="68" fill="#8fece7" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="353" text-anchor="middle" class="value" fill="#111111">76.7%</text>
+<rect x="1260" y="309" width="165" height="68" fill="#9ad8e6" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="353" text-anchor="middle" class="value" fill="#111111">48.1%</text>
+<rect x="1425" y="309" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="353" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<text x="252" y="421" text-anchor="end" class="label">HSM-200</text>
+<rect x="270" y="377" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="421" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="435" y="377" width="165" height="68" fill="#87fbe8" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="421" text-anchor="middle" class="value" fill="#111111">97.0%</text>
+<rect x="600" y="377" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="421" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="765" y="377" width="165" height="68" fill="#8df0e7" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="421" text-anchor="middle" class="value" fill="#111111">81.5%</text>
+<rect x="930" y="377" width="165" height="68" fill="#8eeee7" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="421" text-anchor="middle" class="value" fill="#111111">78.9%</text>
+<rect x="1095" y="377" width="165" height="68" fill="#92e6e7" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="421" text-anchor="middle" class="value" fill="#111111">68.0%</text>
+<rect x="1260" y="377" width="165" height="68" fill="#8fede7" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="421" text-anchor="middle" class="value" fill="#111111">77.0%</text>
+<rect x="1425" y="377" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="421" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<text x="252" y="489" text-anchor="end" class="label">HSM-1n</text>
+<rect x="270" y="445" width="165" height="68" fill="#a2c9e6" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="489" text-anchor="middle" class="value" fill="#111111">27.0%</text>
+<rect x="435" y="445" width="165" height="68" fill="#a3c7e6" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="489" text-anchor="middle" class="value" fill="#111111">23.3%</text>
+<rect x="600" y="445" width="165" height="68" fill="#99d9e6" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="489" text-anchor="middle" class="value" fill="#111111">49.4%</text>
+<rect x="765" y="445" width="165" height="68" fill="#a3c7e6" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="489" text-anchor="middle" class="value" fill="#111111">23.7%</text>
+<rect x="930" y="445" width="165" height="68" fill="#99d9e6" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="489" text-anchor="middle" class="value" fill="#111111">49.5%</text>
+<rect x="1095" y="445" width="165" height="68" fill="#91e8e7" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="489" text-anchor="middle" class="value" fill="#111111">70.5%</text>
+<rect x="1260" y="445" width="165" height="68" fill="#9bd5e6" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="489" text-anchor="middle" class="value" fill="#111111">43.7%</text>
+<rect x="1425" y="445" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="489" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<text x="252" y="557" text-anchor="end" class="label">HSM-2n</text>
+<rect x="270" y="513" width="165" height="68" fill="#98dbe7" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="557" text-anchor="middle" class="value" fill="#111111">51.5%</text>
+<rect x="435" y="513" width="165" height="68" fill="#9bd6e6" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="557" text-anchor="middle" class="value" fill="#111111">45.8%</text>
+<rect x="600" y="513" width="165" height="68" fill="#8eede7" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="557" text-anchor="middle" class="value" fill="#111111">77.9%</text>
+<rect x="765" y="513" width="165" height="68" fill="#9dd2e6" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="557" text-anchor="middle" class="value" fill="#111111">39.5%</text>
+<rect x="930" y="513" width="165" height="68" fill="#91e8e7" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="557" text-anchor="middle" class="value" fill="#111111">70.5%</text>
+<rect x="1095" y="513" width="165" height="68" fill="#8bf4e8" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="557" text-anchor="middle" class="value" fill="#111111">87.4%</text>
+<rect x="1260" y="513" width="165" height="68" fill="#92e6e7" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="557" text-anchor="middle" class="value" fill="#111111">67.4%</text>
+<rect x="1425" y="513" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="557" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<text x="252" y="625" text-anchor="end" class="label">HSM-5n</text>
+<rect x="270" y="581" width="165" height="68" fill="#89f7e8" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="625" text-anchor="middle" class="value" fill="#111111">91.3%</text>
+<rect x="435" y="581" width="165" height="68" fill="#8af5e8" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="625" text-anchor="middle" class="value" fill="#111111">89.3%</text>
+<rect x="600" y="581" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="625" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="765" y="581" width="165" height="68" fill="#8febe7" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="625" text-anchor="middle" class="value" fill="#111111">75.3%</text>
+<rect x="930" y="581" width="165" height="68" fill="#89f7e8" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="625" text-anchor="middle" class="value" fill="#111111">92.2%</text>
+<rect x="1095" y="581" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="625" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1260" y="581" width="165" height="68" fill="#87fbe8" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="625" text-anchor="middle" class="value" fill="#111111">96.6%</text>
+<rect x="1425" y="581" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="625" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<text x="252" y="693" text-anchor="end" class="label">HSM-10n</text>
+<rect x="270" y="649" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="693" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="435" y="649" width="165" height="68" fill="#86fce8" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="693" text-anchor="middle" class="value" fill="#111111">98.8%</text>
+<rect x="600" y="649" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="693" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="765" y="649" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="693" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="930" y="649" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="693" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1095" y="649" width="165" height="68" fill="#86fce8" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="693" text-anchor="middle" class="value" fill="#111111">99.2%</text>
+<rect x="1260" y="649" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="693" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1425" y="649" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="693" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<text x="252" y="761" text-anchor="end" class="label">HSM-50n</text>
+<rect x="270" y="717" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="761" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="435" y="717" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="761" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="600" y="717" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="761" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="765" y="717" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="761" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="930" y="717" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="761" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1095" y="717" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="761" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1260" y="717" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="761" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1425" y="717" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="761" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<text x="252" y="829" text-anchor="end" class="label">HSM-100n</text>
+<rect x="270" y="785" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="829" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="435" y="785" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="829" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="600" y="785" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="829" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="765" y="785" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="829" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="930" y="785" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="829" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1095" y="785" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="829" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1260" y="785" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="829" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1425" y="785" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="829" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<text x="252" y="897" text-anchor="end" class="label">HSM-200n</text>
+<rect x="270" y="853" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="897" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="435" y="853" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="897" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="600" y="853" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="897" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="765" y="853" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="897" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="930" y="853" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="897" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1095" y="853" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="897" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1260" y="853" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="897" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1425" y="853" width="165" height="68" fill="#86fde8" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="897" text-anchor="middle" class="value" fill="#111111">100.0%</text>
+<rect x="1600" y="135.0" width="60" height="7.3" fill="#86fde8"/>
+<rect x="1600" y="141.3" width="60" height="7.3" fill="#86fce8"/>
+<rect x="1600" y="147.6" width="60" height="7.3" fill="#87fce8"/>
+<rect x="1600" y="153.9" width="60" height="7.3" fill="#87fbe8"/>
+<rect x="1600" y="160.2" width="60" height="7.3" fill="#87fbe8"/>
+<rect x="1600" y="166.5" width="60" height="7.3" fill="#88fae8"/>
+<rect x="1600" y="172.8" width="60" height="7.3" fill="#88f9e8"/>
+<rect x="1600" y="179.1" width="60" height="7.3" fill="#88f9e8"/>
+<rect x="1600" y="185.4" width="60" height="7.3" fill="#89f8e8"/>
+<rect x="1600" y="191.7" width="60" height="7.3" fill="#89f8e8"/>
+<rect x="1600" y="198.0" width="60" height="7.3" fill="#89f7e8"/>
+<rect x="1600" y="204.3" width="60" height="7.3" fill="#8af6e8"/>
+<rect x="1600" y="210.6" width="60" height="7.3" fill="#8af6e8"/>
+<rect x="1600" y="216.9" width="60" height="7.3" fill="#8af5e8"/>
+<rect x="1600" y="223.2" width="60" height="7.3" fill="#8af5e8"/>
+<rect x="1600" y="229.5" width="60" height="7.3" fill="#8bf4e8"/>
+<rect x="1600" y="235.8" width="60" height="7.3" fill="#8bf3e8"/>
+<rect x="1600" y="242.1" width="60" height="7.3" fill="#8bf3e8"/>
+<rect x="1600" y="248.4" width="60" height="7.3" fill="#8cf2e8"/>
+<rect x="1600" y="254.7" width="60" height="7.3" fill="#8cf2e8"/>
+<rect x="1600" y="261.0" width="60" height="7.3" fill="#8cf1e7"/>
+<rect x="1600" y="267.3" width="60" height="7.3" fill="#8df0e7"/>
+<rect x="1600" y="273.6" width="60" height="7.3" fill="#8df0e7"/>
+<rect x="1600" y="279.9" width="60" height="7.3" fill="#8defe7"/>
+<rect x="1600" y="286.2" width="60" height="7.3" fill="#8eefe7"/>
+<rect x="1600" y="292.5" width="60" height="7.3" fill="#8eeee7"/>
+<rect x="1600" y="298.8" width="60" height="7.3" fill="#8eede7"/>
+<rect x="1600" y="305.1" width="60" height="7.3" fill="#8fede7"/>
+<rect x="1600" y="311.4" width="60" height="7.3" fill="#8fece7"/>
+<rect x="1600" y="317.7" width="60" height="7.3" fill="#8fece7"/>
+<rect x="1600" y="324.0" width="60" height="7.3" fill="#90ebe7"/>
+<rect x="1600" y="330.3" width="60" height="7.3" fill="#90ebe7"/>
+<rect x="1600" y="336.6" width="60" height="7.3" fill="#90eae7"/>
+<rect x="1600" y="342.9" width="60" height="7.3" fill="#91e9e7"/>
+<rect x="1600" y="349.2" width="60" height="7.3" fill="#91e9e7"/>
+<rect x="1600" y="355.5" width="60" height="7.3" fill="#91e8e7"/>
+<rect x="1600" y="361.8" width="60" height="7.3" fill="#91e8e7"/>
+<rect x="1600" y="368.1" width="60" height="7.3" fill="#92e7e7"/>
+<rect x="1600" y="374.4" width="60" height="7.3" fill="#92e6e7"/>
+<rect x="1600" y="380.7" width="60" height="7.3" fill="#92e6e7"/>
+<rect x="1600" y="387.0" width="60" height="7.3" fill="#93e5e7"/>
+<rect x="1600" y="393.3" width="60" height="7.3" fill="#93e5e7"/>
+<rect x="1600" y="399.6" width="60" height="7.3" fill="#93e4e7"/>
+<rect x="1600" y="405.9" width="60" height="7.3" fill="#94e3e7"/>
+<rect x="1600" y="412.2" width="60" height="7.3" fill="#94e3e7"/>
+<rect x="1600" y="418.5" width="60" height="7.3" fill="#94e2e7"/>
+<rect x="1600" y="424.8" width="60" height="7.3" fill="#95e2e7"/>
+<rect x="1600" y="431.1" width="60" height="7.3" fill="#95e1e7"/>
+<rect x="1600" y="437.4" width="60" height="7.3" fill="#95e0e7"/>
+<rect x="1600" y="443.7" width="60" height="7.3" fill="#96e0e7"/>
+<rect x="1600" y="450.0" width="60" height="7.3" fill="#96dfe7"/>
+<rect x="1600" y="456.3" width="60" height="7.3" fill="#96dfe7"/>
+<rect x="1600" y="462.6" width="60" height="7.3" fill="#97dee7"/>
+<rect x="1600" y="468.9" width="60" height="7.3" fill="#97dde7"/>
+<rect x="1600" y="475.2" width="60" height="7.3" fill="#97dde7"/>
+<rect x="1600" y="481.5" width="60" height="7.3" fill="#98dce7"/>
+<rect x="1600" y="487.8" width="60" height="7.3" fill="#98dce7"/>
+<rect x="1600" y="494.1" width="60" height="7.3" fill="#98dbe7"/>
+<rect x="1600" y="500.4" width="60" height="7.3" fill="#99dae7"/>
+<rect x="1600" y="506.7" width="60" height="7.3" fill="#99dae7"/>
+<rect x="1600" y="513.0" width="60" height="7.3" fill="#99d9e6"/>
+<rect x="1600" y="519.3" width="60" height="7.3" fill="#99d9e6"/>
+<rect x="1600" y="525.6" width="60" height="7.3" fill="#9ad8e6"/>
+<rect x="1600" y="531.9" width="60" height="7.3" fill="#9ad7e6"/>
+<rect x="1600" y="538.2" width="60" height="7.3" fill="#9ad7e6"/>
+<rect x="1600" y="544.5" width="60" height="7.3" fill="#9bd6e6"/>
+<rect x="1600" y="550.8" width="60" height="7.3" fill="#9bd6e6"/>
+<rect x="1600" y="557.1" width="60" height="7.3" fill="#9bd5e6"/>
+<rect x="1600" y="563.4" width="60" height="7.3" fill="#9cd4e6"/>
+<rect x="1600" y="569.7" width="60" height="7.3" fill="#9cd4e6"/>
+<rect x="1600" y="576.0" width="60" height="7.3" fill="#9cd3e6"/>
+<rect x="1600" y="582.3" width="60" height="7.3" fill="#9dd3e6"/>
+<rect x="1600" y="588.6" width="60" height="7.3" fill="#9dd2e6"/>
+<rect x="1600" y="594.9" width="60" height="7.3" fill="#9dd1e6"/>
+<rect x="1600" y="601.2" width="60" height="7.3" fill="#9ed1e6"/>
+<rect x="1600" y="607.5" width="60" height="7.3" fill="#9ed0e6"/>
+<rect x="1600" y="613.8" width="60" height="7.3" fill="#9ed0e6"/>
+<rect x="1600" y="620.1" width="60" height="7.3" fill="#9fcfe6"/>
+<rect x="1600" y="626.4" width="60" height="7.3" fill="#9fcee6"/>
+<rect x="1600" y="632.7" width="60" height="7.3" fill="#9fcee6"/>
+<rect x="1600" y="639.0" width="60" height="7.3" fill="#a0cde6"/>
+<rect x="1600" y="645.3" width="60" height="7.3" fill="#a0cde6"/>
+<rect x="1600" y="651.6" width="60" height="7.3" fill="#a0cce6"/>
+<rect x="1600" y="657.9" width="60" height="7.3" fill="#a1cbe6"/>
+<rect x="1600" y="664.2" width="60" height="7.3" fill="#a1cbe6"/>
+<rect x="1600" y="670.5" width="60" height="7.3" fill="#a1cae6"/>
+<rect x="1600" y="676.8" width="60" height="7.3" fill="#a1cae6"/>
+<rect x="1600" y="683.1" width="60" height="7.3" fill="#a2c9e6"/>
+<rect x="1600" y="689.4" width="60" height="7.3" fill="#a2c8e6"/>
+<rect x="1600" y="695.7" width="60" height="7.3" fill="#a2c8e6"/>
+<rect x="1600" y="702.0" width="60" height="7.3" fill="#a3c7e6"/>
+<rect x="1600" y="708.3" width="60" height="7.3" fill="#a3c7e6"/>
+<rect x="1600" y="714.6" width="60" height="7.3" fill="#a3c6e6"/>
+<rect x="1600" y="720.9" width="60" height="7.3" fill="#a4c6e6"/>
+<rect x="1600" y="727.2" width="60" height="7.3" fill="#a4c5e6"/>
+<rect x="1600" y="733.5" width="60" height="7.3" fill="#a4c4e6"/>
+<rect x="1600" y="739.8" width="60" height="7.3" fill="#a5c4e6"/>
+<rect x="1600" y="746.1" width="60" height="7.3" fill="#a5c3e6"/>
+<rect x="1600" y="752.4" width="60" height="7.3" fill="#a5c3e6"/>
+<rect x="1600" y="758.7" width="60" height="7.3" fill="#a6c2e6"/>
+<rect x="1600" y="765.0" width="60" height="7.3" fill="#a6c1e5"/>
+<rect x="1600" y="771.3" width="60" height="7.3" fill="#a6c1e5"/>
+<rect x="1600" y="777.6" width="60" height="7.3" fill="#a7c0e5"/>
+<rect x="1600" y="783.9" width="60" height="7.3" fill="#a7c0e5"/>
+<rect x="1600" y="790.2" width="60" height="7.3" fill="#a7bfe5"/>
+<rect x="1600" y="796.5" width="60" height="7.3" fill="#a8bee5"/>
+<rect x="1600" y="802.8" width="60" height="7.3" fill="#a8bee5"/>
+<rect x="1600" y="809.1" width="60" height="7.3" fill="#a8bde5"/>
+<rect x="1600" y="815.4" width="60" height="7.3" fill="#a8bde5"/>
+<rect x="1600" y="821.7" width="60" height="7.3" fill="#a9bce5"/>
+<rect x="1600" y="828.0" width="60" height="7.3" fill="#a9bbe5"/>
+<rect x="1600" y="834.3" width="60" height="7.3" fill="#a9bbe5"/>
+<rect x="1600" y="840.6" width="60" height="7.3" fill="#aabae5"/>
+<rect x="1600" y="846.9" width="60" height="7.3" fill="#aabae5"/>
+<rect x="1600" y="853.2" width="60" height="7.3" fill="#aab9e5"/>
+<rect x="1600" y="859.5" width="60" height="7.3" fill="#abb8e5"/>
+<rect x="1600" y="865.8" width="60" height="7.3" fill="#abb8e5"/>
+<rect x="1600" y="872.1" width="60" height="7.3" fill="#abb7e5"/>
+<rect x="1600" y="878.4" width="60" height="7.3" fill="#acb7e5"/>
+<rect x="1600" y="884.7" width="60" height="7.3" fill="#acb6e5"/>
+<rect x="1600" y="135" width="60" height="756" fill="none" stroke="#333333"/>
+<text x="1630.0" y="123" text-anchor="middle" class="tick">100.00</text>
+<text x="1630.0" y="923" text-anchor="middle" class="tick">0.00</text>
+<text x="1620.0" y="513.0" text-anchor="middle" transform="rotate(-90 1620.0 513.0)" class="axis">Entry count relative to HSM-large (%)</text>
+</svg>

@@ -1,0 +1,340 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1750" height="1200" viewBox="0 0 1750 1200">
+<rect width="100%" height="100%" fill="white"/>
+<style>text { font-family: Arial, Helvetica, sans-serif; } .axis { font-size: 32px; } .network { font-size: 30px; } .label { font-size: 26px; } .value { font-size: 32px; font-weight: 500; } .tick { font-size: 32px; }</style>
+<text x="352.5" y="84" text-anchor="middle" class="network">Asia</text>
+<text x="517.5" y="84" text-anchor="middle" class="network">Insurance</text>
+<text x="682.5" y="84" text-anchor="middle" class="network">Water</text>
+<text x="847.5" y="84" text-anchor="middle" class="network">Alarm</text>
+<text x="1012.5" y="84" text-anchor="middle" class="network">Hailfinder</text>
+<text x="1177.5" y="84" text-anchor="middle" class="network">Hepar II</text>
+<text x="1342.5" y="84" text-anchor="middle" class="network">Win95pts</text>
+<text x="1507.5" y="84" text-anchor="middle" class="network">Andes</text>
+<text x="252" y="149" text-anchor="end" class="label">HSM-10</text>
+<rect x="270" y="105" width="165" height="68" fill="#bfacd7" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="149" text-anchor="middle" class="value" fill="#111111">-13.63</text>
+<rect x="435" y="105" width="165" height="68" fill="#e290a3" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="149" text-anchor="middle" class="value" fill="#111111">-5.06</text>
+<rect x="600" y="105" width="165" height="68" fill="#eb8995" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="149" text-anchor="middle" class="value" fill="#111111">-2.80</text>
+<rect x="765" y="105" width="165" height="68" fill="#e38fa1" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="149" text-anchor="middle" class="value" fill="#111111">-4.81</text>
+<rect x="930" y="105" width="165" height="68" fill="#ee8690" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="149" text-anchor="middle" class="value" fill="#111111">-2.00</text>
+<rect x="1095" y="105" width="165" height="68" fill="#f1848c" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="149" text-anchor="middle" class="value" fill="#111111">-1.32</text>
+<rect x="1260" y="105" width="165" height="68" fill="#ec8893" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="149" text-anchor="middle" class="value" fill="#111111">-2.52</text>
+<rect x="1425" y="105" width="165" height="68" fill="#f48187" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="149" text-anchor="middle" class="value" fill="#111111">-0.43</text>
+<text x="252" y="217" text-anchor="end" class="label">HSM-20</text>
+<rect x="270" y="173" width="165" height="68" fill="#ea8a96" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="217" text-anchor="middle" class="value" fill="#111111">-3.00</text>
+<rect x="435" y="173" width="165" height="68" fill="#f0858d" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="217" text-anchor="middle" class="value" fill="#111111">-1.54</text>
+<rect x="600" y="173" width="165" height="68" fill="#f38288" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="217" text-anchor="middle" class="value" fill="#111111">-0.69</text>
+<rect x="765" y="173" width="165" height="68" fill="#ef868f" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="217" text-anchor="middle" class="value" fill="#111111">-1.82</text>
+<rect x="930" y="173" width="165" height="68" fill="#f38288" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="217" text-anchor="middle" class="value" fill="#111111">-0.70</text>
+<rect x="1095" y="173" width="165" height="68" fill="#f48187" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="217" text-anchor="middle" class="value" fill="#111111">-0.45</text>
+<rect x="1260" y="173" width="165" height="68" fill="#f2838a" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="217" text-anchor="middle" class="value" fill="#111111">-0.95</text>
+<rect x="1425" y="173" width="165" height="68" fill="#f58085" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="217" text-anchor="middle" class="value" fill="#111111">-0.13</text>
+<text x="252" y="285" text-anchor="end" class="label">HSM-50</text>
+<rect x="270" y="241" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="285" text-anchor="middle" class="value" fill="#111111">-0.04</text>
+<rect x="435" y="241" width="165" height="68" fill="#f48187" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="285" text-anchor="middle" class="value" fill="#111111">-0.43</text>
+<rect x="600" y="241" width="165" height="68" fill="#f68085" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="285" text-anchor="middle" class="value" fill="#111111">-0.12</text>
+<rect x="765" y="241" width="165" height="68" fill="#f48186" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="285" text-anchor="middle" class="value" fill="#111111">-0.38</text>
+<rect x="930" y="241" width="165" height="68" fill="#f58185" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="285" text-anchor="middle" class="value" fill="#111111">-0.20</text>
+<rect x="1095" y="241" width="165" height="68" fill="#f68085" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="285" text-anchor="middle" class="value" fill="#111111">-0.10</text>
+<rect x="1260" y="241" width="165" height="68" fill="#f58186" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="285" text-anchor="middle" class="value" fill="#111111">-0.28</text>
+<rect x="1425" y="241" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="285" text-anchor="middle" class="value" fill="#111111">-0.01</text>
+<text x="252" y="353" text-anchor="end" class="label">HSM-100</text>
+<rect x="270" y="309" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="353" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="435" y="309" width="165" height="68" fill="#f68085" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="353" text-anchor="middle" class="value" fill="#111111">-0.11</text>
+<rect x="600" y="309" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="353" text-anchor="middle" class="value" fill="#111111">-0.01</text>
+<rect x="765" y="309" width="165" height="68" fill="#f58185" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="353" text-anchor="middle" class="value" fill="#111111">-0.16</text>
+<rect x="930" y="309" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="353" text-anchor="middle" class="value" fill="#111111">-0.04</text>
+<rect x="1095" y="309" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="353" text-anchor="middle" class="value" fill="#111111">-0.04</text>
+<rect x="1260" y="309" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="353" text-anchor="middle" class="value" fill="#111111">-0.07</text>
+<rect x="1425" y="309" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="353" text-anchor="middle" class="value" fill="#111111">-0.01</text>
+<text x="252" y="421" text-anchor="end" class="label">HSM-200</text>
+<rect x="270" y="377" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="421" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="435" y="377" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="421" text-anchor="middle" class="value" fill="#111111">-0.02</text>
+<rect x="600" y="377" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="421" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="765" y="377" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="421" text-anchor="middle" class="value" fill="#111111">-0.05</text>
+<rect x="930" y="377" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="421" text-anchor="middle" class="value" fill="#111111">-0.01</text>
+<rect x="1095" y="377" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="421" text-anchor="middle" class="value" fill="#111111">-0.00</text>
+<rect x="1260" y="377" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="421" text-anchor="middle" class="value" fill="#111111">0.01</text>
+<rect x="1425" y="377" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="421" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<text x="252" y="489" text-anchor="end" class="label">HSM-1n</text>
+<rect x="270" y="445" width="165" height="68" fill="#aebaf2" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="489" text-anchor="middle" class="value" fill="#111111">-18.05</text>
+<rect x="435" y="445" width="165" height="68" fill="#f2838a" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="489" text-anchor="middle" class="value" fill="#111111">-0.96</text>
+<rect x="600" y="445" width="165" height="68" fill="#f58186" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="489" text-anchor="middle" class="value" fill="#111111">-0.26</text>
+<rect x="765" y="445" width="165" height="68" fill="#f48287" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="489" text-anchor="middle" class="value" fill="#111111">-0.55</text>
+<rect x="930" y="445" width="165" height="68" fill="#f58085" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="489" text-anchor="middle" class="value" fill="#111111">-0.14</text>
+<rect x="1095" y="445" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="489" text-anchor="middle" class="value" fill="#111111">-0.07</text>
+<rect x="1260" y="445" width="165" height="68" fill="#f58085" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="489" text-anchor="middle" class="value" fill="#111111">-0.15</text>
+<rect x="1425" y="445" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="489" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<text x="252" y="557" text-anchor="end" class="label">HSM-2n</text>
+<rect x="270" y="513" width="165" height="68" fill="#df93a7" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="557" text-anchor="middle" class="value" fill="#111111">-5.80</text>
+<rect x="435" y="513" width="165" height="68" fill="#f48186" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="557" text-anchor="middle" class="value" fill="#111111">-0.41</text>
+<rect x="600" y="513" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="557" text-anchor="middle" class="value" fill="#111111">-0.05</text>
+<rect x="765" y="513" width="165" height="68" fill="#f58186" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="557" text-anchor="middle" class="value" fill="#111111">-0.25</text>
+<rect x="930" y="513" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="557" text-anchor="middle" class="value" fill="#111111">-0.03</text>
+<rect x="1095" y="513" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="557" text-anchor="middle" class="value" fill="#111111">-0.03</text>
+<rect x="1260" y="513" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="557" text-anchor="middle" class="value" fill="#111111">-0.02</text>
+<rect x="1425" y="513" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="557" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<text x="252" y="625" text-anchor="end" class="label">HSM-5n</text>
+<rect x="270" y="581" width="165" height="68" fill="#f58185" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="625" text-anchor="middle" class="value" fill="#111111">-0.19</text>
+<rect x="435" y="581" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="625" text-anchor="middle" class="value" fill="#111111">-0.03</text>
+<rect x="600" y="581" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="625" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="765" y="581" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="625" text-anchor="middle" class="value" fill="#111111">-0.07</text>
+<rect x="930" y="581" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="625" text-anchor="middle" class="value" fill="#111111">-0.01</text>
+<rect x="1095" y="581" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="625" text-anchor="middle" class="value" fill="#111111">-0.00</text>
+<rect x="1260" y="581" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="625" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1425" y="581" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="625" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<text x="252" y="693" text-anchor="end" class="label">HSM-10n</text>
+<rect x="270" y="649" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="693" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="435" y="649" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="693" text-anchor="middle" class="value" fill="#111111">-0.01</text>
+<rect x="600" y="649" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="693" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="765" y="649" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="693" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="930" y="649" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="693" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1095" y="649" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="693" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1260" y="649" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="693" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1425" y="649" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="693" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<text x="252" y="761" text-anchor="end" class="label">HSM-50n</text>
+<rect x="270" y="717" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="761" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="435" y="717" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="761" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="600" y="717" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="761" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="765" y="717" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="761" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="930" y="717" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="761" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1095" y="717" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="761" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1260" y="717" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="761" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1425" y="717" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="761" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<text x="252" y="829" text-anchor="end" class="label">HSM-100n</text>
+<rect x="270" y="785" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="829" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="435" y="785" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="829" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="600" y="785" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="829" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="765" y="785" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="829" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="930" y="785" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="829" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1095" y="785" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="829" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1260" y="785" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="829" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1425" y="785" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="829" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<text x="252" y="897" text-anchor="end" class="label">HSM-200n</text>
+<rect x="270" y="853" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="352.5" y="897" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="435" y="853" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="517.5" y="897" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="600" y="853" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="682.5" y="897" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="765" y="853" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="847.5" y="897" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="930" y="853" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1012.5" y="897" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1095" y="853" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1177.5" y="897" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1260" y="853" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1342.5" y="897" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1425" y="853" width="165" height="68" fill="#f68084" stroke="#ffffff" stroke-width="1"/>
+<text x="1507.5" y="897" text-anchor="middle" class="value" fill="#111111">0.00</text>
+<rect x="1600" y="135.0" width="60" height="7.3" fill="#f68084"/>
+<rect x="1600" y="141.3" width="60" height="7.3" fill="#f58185"/>
+<rect x="1600" y="147.6" width="60" height="7.3" fill="#f58186"/>
+<rect x="1600" y="153.9" width="60" height="7.3" fill="#f48287"/>
+<rect x="1600" y="160.2" width="60" height="7.3" fill="#f38288"/>
+<rect x="1600" y="166.5" width="60" height="7.3" fill="#f38389"/>
+<rect x="1600" y="172.8" width="60" height="7.3" fill="#f2838a"/>
+<rect x="1600" y="179.1" width="60" height="7.3" fill="#f1848b"/>
+<rect x="1600" y="185.4" width="60" height="7.3" fill="#f1848c"/>
+<rect x="1600" y="191.7" width="60" height="7.3" fill="#f0858d"/>
+<rect x="1600" y="198.0" width="60" height="7.3" fill="#ef858e"/>
+<rect x="1600" y="204.3" width="60" height="7.3" fill="#ef868f"/>
+<rect x="1600" y="210.6" width="60" height="7.3" fill="#ee8690"/>
+<rect x="1600" y="216.9" width="60" height="7.3" fill="#ed8791"/>
+<rect x="1600" y="223.2" width="60" height="7.3" fill="#ed8892"/>
+<rect x="1600" y="229.5" width="60" height="7.3" fill="#ec8893"/>
+<rect x="1600" y="235.8" width="60" height="7.3" fill="#eb8994"/>
+<rect x="1600" y="242.1" width="60" height="7.3" fill="#eb8995"/>
+<rect x="1600" y="248.4" width="60" height="7.3" fill="#ea8a96"/>
+<rect x="1600" y="254.7" width="60" height="7.3" fill="#e98a97"/>
+<rect x="1600" y="261.0" width="60" height="7.3" fill="#e98b99"/>
+<rect x="1600" y="267.3" width="60" height="7.3" fill="#e88b9a"/>
+<rect x="1600" y="273.6" width="60" height="7.3" fill="#e78c9b"/>
+<rect x="1600" y="279.9" width="60" height="7.3" fill="#e78c9c"/>
+<rect x="1600" y="286.2" width="60" height="7.3" fill="#e68d9d"/>
+<rect x="1600" y="292.5" width="60" height="7.3" fill="#e58d9e"/>
+<rect x="1600" y="298.8" width="60" height="7.3" fill="#e58e9f"/>
+<rect x="1600" y="305.1" width="60" height="7.3" fill="#e48fa0"/>
+<rect x="1600" y="311.4" width="60" height="7.3" fill="#e38fa1"/>
+<rect x="1600" y="317.7" width="60" height="7.3" fill="#e390a2"/>
+<rect x="1600" y="324.0" width="60" height="7.3" fill="#e290a3"/>
+<rect x="1600" y="330.3" width="60" height="7.3" fill="#e191a4"/>
+<rect x="1600" y="336.6" width="60" height="7.3" fill="#e091a5"/>
+<rect x="1600" y="342.9" width="60" height="7.3" fill="#e092a6"/>
+<rect x="1600" y="349.2" width="60" height="7.3" fill="#df92a7"/>
+<rect x="1600" y="355.5" width="60" height="7.3" fill="#de93a8"/>
+<rect x="1600" y="361.8" width="60" height="7.3" fill="#de93a9"/>
+<rect x="1600" y="368.1" width="60" height="7.3" fill="#dd94aa"/>
+<rect x="1600" y="374.4" width="60" height="7.3" fill="#dc94ab"/>
+<rect x="1600" y="380.7" width="60" height="7.3" fill="#dc95ac"/>
+<rect x="1600" y="387.0" width="60" height="7.3" fill="#db96ad"/>
+<rect x="1600" y="393.3" width="60" height="7.3" fill="#da96ae"/>
+<rect x="1600" y="399.6" width="60" height="7.3" fill="#da97af"/>
+<rect x="1600" y="405.9" width="60" height="7.3" fill="#d997b0"/>
+<rect x="1600" y="412.2" width="60" height="7.3" fill="#d898b1"/>
+<rect x="1600" y="418.5" width="60" height="7.3" fill="#d898b2"/>
+<rect x="1600" y="424.8" width="60" height="7.3" fill="#d799b3"/>
+<rect x="1600" y="431.1" width="60" height="7.3" fill="#d699b4"/>
+<rect x="1600" y="437.4" width="60" height="7.3" fill="#d69ab5"/>
+<rect x="1600" y="443.7" width="60" height="7.3" fill="#d59ab6"/>
+<rect x="1600" y="450.0" width="60" height="7.3" fill="#d49bb7"/>
+<rect x="1600" y="456.3" width="60" height="7.3" fill="#d49bb8"/>
+<rect x="1600" y="462.6" width="60" height="7.3" fill="#d39cb9"/>
+<rect x="1600" y="468.9" width="60" height="7.3" fill="#d29dba"/>
+<rect x="1600" y="475.2" width="60" height="7.3" fill="#d29dbb"/>
+<rect x="1600" y="481.5" width="60" height="7.3" fill="#d19ebc"/>
+<rect x="1600" y="487.8" width="60" height="7.3" fill="#d09ebd"/>
+<rect x="1600" y="494.1" width="60" height="7.3" fill="#d09fbe"/>
+<rect x="1600" y="500.4" width="60" height="7.3" fill="#cf9fbf"/>
+<rect x="1600" y="506.7" width="60" height="7.3" fill="#cea0c0"/>
+<rect x="1600" y="513.0" width="60" height="7.3" fill="#cea0c2"/>
+<rect x="1600" y="519.3" width="60" height="7.3" fill="#cda1c3"/>
+<rect x="1600" y="525.6" width="60" height="7.3" fill="#cca1c4"/>
+<rect x="1600" y="531.9" width="60" height="7.3" fill="#cca2c5"/>
+<rect x="1600" y="538.2" width="60" height="7.3" fill="#cba2c6"/>
+<rect x="1600" y="544.5" width="60" height="7.3" fill="#caa3c7"/>
+<rect x="1600" y="550.8" width="60" height="7.3" fill="#caa3c8"/>
+<rect x="1600" y="557.1" width="60" height="7.3" fill="#c9a4c9"/>
+<rect x="1600" y="563.4" width="60" height="7.3" fill="#c8a5ca"/>
+<rect x="1600" y="569.7" width="60" height="7.3" fill="#c8a5cb"/>
+<rect x="1600" y="576.0" width="60" height="7.3" fill="#c7a6cc"/>
+<rect x="1600" y="582.3" width="60" height="7.3" fill="#c6a6cd"/>
+<rect x="1600" y="588.6" width="60" height="7.3" fill="#c6a7ce"/>
+<rect x="1600" y="594.9" width="60" height="7.3" fill="#c5a7cf"/>
+<rect x="1600" y="601.2" width="60" height="7.3" fill="#c4a8d0"/>
+<rect x="1600" y="607.5" width="60" height="7.3" fill="#c4a8d1"/>
+<rect x="1600" y="613.8" width="60" height="7.3" fill="#c3a9d2"/>
+<rect x="1600" y="620.1" width="60" height="7.3" fill="#c2a9d3"/>
+<rect x="1600" y="626.4" width="60" height="7.3" fill="#c2aad4"/>
+<rect x="1600" y="632.7" width="60" height="7.3" fill="#c1aad5"/>
+<rect x="1600" y="639.0" width="60" height="7.3" fill="#c0abd6"/>
+<rect x="1600" y="645.3" width="60" height="7.3" fill="#c0acd7"/>
+<rect x="1600" y="651.6" width="60" height="7.3" fill="#bfacd8"/>
+<rect x="1600" y="657.9" width="60" height="7.3" fill="#beadd9"/>
+<rect x="1600" y="664.2" width="60" height="7.3" fill="#beadda"/>
+<rect x="1600" y="670.5" width="60" height="7.3" fill="#bdaedb"/>
+<rect x="1600" y="676.8" width="60" height="7.3" fill="#bcaedc"/>
+<rect x="1600" y="683.1" width="60" height="7.3" fill="#bcafdd"/>
+<rect x="1600" y="689.4" width="60" height="7.3" fill="#bbafde"/>
+<rect x="1600" y="695.7" width="60" height="7.3" fill="#bab0df"/>
+<rect x="1600" y="702.0" width="60" height="7.3" fill="#b9b0e0"/>
+<rect x="1600" y="708.3" width="60" height="7.3" fill="#b9b1e1"/>
+<rect x="1600" y="714.6" width="60" height="7.3" fill="#b8b1e2"/>
+<rect x="1600" y="720.9" width="60" height="7.3" fill="#b7b2e3"/>
+<rect x="1600" y="727.2" width="60" height="7.3" fill="#b7b3e4"/>
+<rect x="1600" y="733.5" width="60" height="7.3" fill="#b6b3e5"/>
+<rect x="1600" y="739.8" width="60" height="7.3" fill="#b5b4e6"/>
+<rect x="1600" y="746.1" width="60" height="7.3" fill="#b5b4e7"/>
+<rect x="1600" y="752.4" width="60" height="7.3" fill="#b4b5e8"/>
+<rect x="1600" y="758.7" width="60" height="7.3" fill="#b3b5e9"/>
+<rect x="1600" y="765.0" width="60" height="7.3" fill="#b3b6eb"/>
+<rect x="1600" y="771.3" width="60" height="7.3" fill="#b2b6ec"/>
+<rect x="1600" y="777.6" width="60" height="7.3" fill="#b1b7ed"/>
+<rect x="1600" y="783.9" width="60" height="7.3" fill="#b1b7ee"/>
+<rect x="1600" y="790.2" width="60" height="7.3" fill="#b0b8ef"/>
+<rect x="1600" y="796.5" width="60" height="7.3" fill="#afb8f0"/>
+<rect x="1600" y="802.8" width="60" height="7.3" fill="#afb9f1"/>
+<rect x="1600" y="809.1" width="60" height="7.3" fill="#aebaf2"/>
+<rect x="1600" y="815.4" width="60" height="7.3" fill="#adbaf3"/>
+<rect x="1600" y="821.7" width="60" height="7.3" fill="#adbbf4"/>
+<rect x="1600" y="828.0" width="60" height="7.3" fill="#acbbf5"/>
+<rect x="1600" y="834.3" width="60" height="7.3" fill="#abbcf6"/>
+<rect x="1600" y="840.6" width="60" height="7.3" fill="#abbcf7"/>
+<rect x="1600" y="846.9" width="60" height="7.3" fill="#aabdf8"/>
+<rect x="1600" y="853.2" width="60" height="7.3" fill="#a9bdf9"/>
+<rect x="1600" y="859.5" width="60" height="7.3" fill="#a9befa"/>
+<rect x="1600" y="865.8" width="60" height="7.3" fill="#a8befb"/>
+<rect x="1600" y="872.1" width="60" height="7.3" fill="#a7bffc"/>
+<rect x="1600" y="878.4" width="60" height="7.3" fill="#a7bffd"/>
+<rect x="1600" y="884.7" width="60" height="7.3" fill="#a6c0fe"/>
+<rect x="1600" y="135" width="60" height="756" fill="none" stroke="#333333"/>
+<text x="1630.0" y="123" text-anchor="middle" class="tick">0.00</text>
+<text x="1630.0" y="923" text-anchor="middle" class="tick">-20.00</text>
+<text x="1620.0" y="513.0" text-anchor="middle" transform="rotate(-90 1620.0 513.0)" class="axis">Difference (percentage points)</text>
+</svg>
