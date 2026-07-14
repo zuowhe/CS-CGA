@@ -1,5 +1,8 @@
-function Bnets = prepare_benchmark_datasets(DsS, trial, Flag)
+function Bnets = prepare_benchmark_datasets(DsS, trial, Flag, output_dir)
     RootPath = fileparts(mfilename('fullpath'));
+    if nargin < 4 || isempty(output_dir)
+        output_dir = fullfile(RootPath, 'datasets');
+    end
     Bnets = cell(0,0);
     for j = 1:size(DsS,2)
         switch DsS{j}{1,1}
@@ -25,7 +28,7 @@ function Bnets = prepare_benchmark_datasets(DsS, trial, Flag)
                     Ds_size = DsS{j}{1,2}(i);
                     str = sprintf('%s%s',DsS{j}{1,1},num2str(Ds_size));
                     fprintf('Generating %s datasets.     Start time [%s]\n',str,datestr(now));
-                    [~] = generate_BN_samples(str,Ds_size,trial,bnet,RootPath);
+                    [~] = generate_BN_samples(str,Ds_size,trial,bnet,output_dir);
                     fprintf('- Dataset %s is generated. Finish time [%s]\n',str,datestr(now));
             end
         else

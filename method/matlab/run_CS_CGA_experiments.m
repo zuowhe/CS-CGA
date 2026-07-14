@@ -2,9 +2,9 @@ dbstop if error
 setup_CS_CGA_paths;
 root_dir = fileparts(mfilename('fullpath'));
 package_root = fileparts(fileparts(root_dir));
-Datasets_dir = fullfile(package_root, 'data_and_results', 'benchmark_data');
+Datasets_dir = fullfile(package_root, 'data_and_results', 'generated_datasets');
 if ~exist(Datasets_dir, 'dir')
-    error('Benchmark datasets are not available at %s.', Datasets_dir);
+    mkdir(Datasets_dir);
 end
 addpath(Datasets_dir);
 DsS = cell(0, 0);
@@ -18,8 +18,8 @@ DsS{end+1} = {'HEPAR', data_size};
 DsS{end+1} = {'Win95pts', data_size};
 DsS{end+1} = {'AND', data_size};
 Train_Num = 10;
-FlagNewdata = false;
-Bnets = prepare_benchmark_datasets(DsS, Train_Num, FlagNewdata);
+FlagNewdata = true;
+Bnets = prepare_benchmark_datasets(DsS, Train_Num, FlagNewdata, Datasets_dir);
 N    = 100;
 MP   = 7;
 tour = 2;

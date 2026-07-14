@@ -1,4 +1,7 @@
-function [data] = generate_BN_samples(str,D,T,bnet,RootPath)
+function [data] = generate_BN_samples(str,D,T,bnet,output_dir)
+if ~exist(output_dir, 'dir')
+    mkdir(output_dir);
+end
 n = size(bnet.dag,1);
     data = cell(1,T);
 for t=1:T
@@ -9,5 +12,5 @@ for t=1:T
     end
 end
 eval([str, '=data;']);
-save(fullfile(RootPath,'datasets', [str '.mat']), str);
+save(fullfile(output_dir, [str '.mat']), str);
 end

@@ -8,3 +8,4 @@ __pycache__/
 *.fig
 method/**/results/
 method/**/cache/
+data_and_results/generated_datasets/

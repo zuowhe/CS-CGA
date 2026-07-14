@@ -12,7 +12,8 @@
 
 ## Scope
 
-- Included: CS-CGA source code, benchmark datasets, and reported result files.
+- Included: CS-CGA source code, standard benchmark BN definitions,
+  data-generation code, and reported result files.
 - Excluded: comparison-algorithm code, ablation and supplementary-analysis
   code, plotting code, third-party package source trees, temporary cache files,
   IDE settings, and Python bytecode.
